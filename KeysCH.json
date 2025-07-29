@@ -1,3 +1,10 @@
 {
-  "pairing_password": "SCRIPT NEW ERA"
+  "authorized_users": [
+    "6281391910335",
+    "6289677309781",
+    "6285847270705",
+    "6285962654609",
+    "6285191304291"
+  ],
+  "pairing_password": "JPMCH NEW ERA"
 }
